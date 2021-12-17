@@ -1,0 +1,16 @@
+.social-media-item {
+  display: inline-flex;
+  align-items: center;
+  font-size: 1.2em;
+  line-height: 1.4em;
+}
+
+.social-media-item__icon {
+  display: inline-block;
+  line-height: 0;
+  margin-right: 5px;
+}
+
+.social-media-item__icon_linkedin {
+  color: blue;
+}
